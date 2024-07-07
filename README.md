@@ -1,4 +1,4 @@
-# vue2-jun21
+# vue2-app
 
 ## Project setup
 ```
@@ -22,3 +22,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# Vue2-app
